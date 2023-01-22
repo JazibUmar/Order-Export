@@ -1,0 +1,17 @@
+{
+    "sales_order": {
+        "column": {
+            "flower_setting": true
+        }
+    },
+    "sales_order_grid": {
+        "column": {
+            "flower_setting": true
+        }
+    },
+    "quote": {
+        "column": {
+            "flower_setting": true
+        }
+    }
+}
